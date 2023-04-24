@@ -105,5 +105,6 @@ Before simulation:
 After simulation:
 ![Screenshot 2023-04-24 173254](https://user-images.githubusercontent.com/117974950/233991637-2ce19be9-a1cb-4653-888a-30d4eacd1167.png)
 
+Result:
 
-
+Arduino uno analog input functioning is learned and interfaced with digital input switch
